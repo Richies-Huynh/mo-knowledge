@@ -1,12 +1,12 @@
 "use client";
 
 import { useActionState } from "react";
-import { saveKnowledgeBase, scrapeUrl } from "./actions";
+import { saveKnowledgeBase, type ScrapeState, scrapeUrl } from "./actions";
 import { FormMessage, initialState, SubmitButton } from "./form-controls";
 import { KnowledgeEditor } from "./knowledge-editor";
 
 export function ScrapeForm() {
-  const [state, formAction] = useActionState(scrapeUrl, initialState);
+  const [state, formAction] = useActionState<ScrapeState, FormData>(scrapeUrl, initialState);
 
   return (
     <div className="flex w-full flex-col items-center gap-10">
