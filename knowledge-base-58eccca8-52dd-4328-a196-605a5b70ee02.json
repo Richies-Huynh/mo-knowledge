@@ -1,0 +1,240 @@
+{
+  "company_foundation": {
+    "company_name": "MoFlo",
+    "overview": "MoFlo is an AI growth platform for small and medium-sized businesses that creates and manages marketing content—social posts, email campaigns, blog articles, and review responses—through apps including MoSocial, MoMail, MoBlogs, and MoReviews, delivered via the MoFlo Cloud platform.",
+    "website": "https://moflo.ai",
+    "business_model": "SaaS subscription: individual apps billed monthly ($79–$149/mo) or a Business Bundle at $299/mo, month-to-month with a 7-day free trial.",
+    "company_role": "Software platform (AI marketing SaaS provider)",
+    "year_founded": 2025,
+    "legal_entity_type": "Inc (Delaware corporation)",
+    "main_address": "Las Vegas, Nevada",
+    "service_locations": null,
+    "alt_company_names": [
+      "MoFlo, Inc.",
+      "MoFlo Cloud"
+    ]
+  },
+  "positioning": {
+    "pitch": "The all-in-one AI Growth Platform for small businesses: Flo creates your content while you run your business.",
+    "founding_story": "Co-founders Nathan and Tristan Cocozza conceived MoFlo over Christmas 2024 in England while discussing AI, noting large companies captured nearly 90% of U.S. AI investment while small businesses got a sliver. MoFlo raised its first funding round in April 2025, incorporated as a Delaware corporation headquartered in Las Vegas in May 2025, launched a beta of MoSocial and MoLetters in August 2025, and launched MoFlo Cloud in October 2025."
+  },
+  "market": {
+    "buyers": "Small and medium-sized business owners and small teams, including real estate professionals, insurance agents and brokers, professional services firms, franchise operators, trades and services companies, and high tech professionals.",
+    "customer_needs": "Consistent on-brand marketing across social, email, blogs and Google reviews without the time, expertise, or cost of running marketing in-house; lead generation, reputation management, local visibility, and client communication.",
+    "ideal_persona": "A small business owner or small team without a marketing department or time to run marketing, who wants AI-drafted content ready to approve and publish.",
+    "industry_groupings": "Real estate, insurance, professional services (attorneys, accountants, financial advisors, consultants), franchises, trades and services (e.g., HVAC, roofing, pest control), high tech.",
+    "channel": "Self-serve online signup and onboarding via MoFlo Cloud, supplemented by demo requests and sales contact.",
+    "funnels": [
+      "7-day free trial (Start for free)",
+      "Demo request",
+      "Contact Sales",
+      "Case studies",
+      "Brand Health Audit"
+    ],
+    "suppliers": [
+      "Facebook",
+      "Instagram",
+      "X",
+      "LinkedIn",
+      "YouTube",
+      "TikTok",
+      "Mailchimp",
+      "Constant Contact",
+      "HubSpot",
+      "Follow Up Boss",
+      "WordPress",
+      "Google Drive",
+      "Google Business Profile"
+    ]
+  },
+  "branding": {
+    "writing_style": "Friendly, conversational and benefit-driven, with casual touches (\"Who the heck is MoFlo?\") and a focus on time savings, simplicity, and affordability for small business owners.",
+    "art_style": null,
+    "fonts": [
+      "Albert Sans",
+      "Figtree",
+      "Geist",
+      "Inter Tight",
+      "Kanit",
+      "Onest",
+      "Poppins",
+      "Fragment Mono",
+      "Inter Display",
+      "Plus Jakarta Sans",
+      "Inter",
+      "Inter Variable",
+      "Satoshi",
+      "Switzer"
+    ],
+    "brand_colors": [
+      "#ffffff"
+    ],
+    "logos": [
+      "https://framerusercontent.com/images/1jeR9lQLMKCw6d2Xmjx1jvreBo.png"
+    ]
+  },
+  "online_presence": {
+    "linked_in": "https://linkedin.com/company/mofloai",
+    "facebook": "https://facebook.com/people/MoFlo/61578564326471",
+    "instagram": "https://instagram.com/mofloai",
+    "twitter": "https://x.com/MoFloAI",
+    "other": [
+      "https://youtube.com/@MoFloAI",
+      "https://tiktok.com/@mofloai"
+    ]
+  },
+  "key_person": [
+    {
+      "name": "Nathan Cocozza",
+      "title": "CEO & Co-Founder",
+      "role": "founder",
+      "gender": null,
+      "description": "Co-founder and CEO based in Las Vegas, NV; conceived MoFlo with Tristan Cocozza in December 2024."
+    },
+    {
+      "name": "Tristan Cocozza",
+      "title": "President & Co-Founder",
+      "role": "founder",
+      "gender": null,
+      "description": "Co-founder and President based in Las Vegas, NV."
+    },
+    {
+      "name": "Anmol Gupta",
+      "title": "Lead UI/UX Designer",
+      "role": "design",
+      "gender": null,
+      "description": "Lead UI/UX Designer based in San Francisco, CA."
+    },
+    {
+      "name": "Chris Youngclaus",
+      "title": "Cloud Team Lead Dev",
+      "role": "engineering leadership",
+      "gender": null,
+      "description": "Cloud team lead developer based in Hoboken, NJ."
+    },
+    {
+      "name": "Jeremiah Ramiscal",
+      "title": "Customer Success Lead",
+      "role": "customer success",
+      "gender": null,
+      "description": "Customer success lead based in Las Vegas, NV."
+    },
+    {
+      "name": "Candy King",
+      "title": "Administration",
+      "role": "administration",
+      "gender": null,
+      "description": "Administration, based in Las Vegas, NV."
+    },
+    {
+      "name": "Sotiris Ploumbis",
+      "title": "Cloud Team Dev",
+      "role": "engineering",
+      "gender": null,
+      "description": "Cloud team developer based in Hoboken, NJ."
+    },
+    {
+      "name": "Lucas Cunnane",
+      "title": "Cloud Team Dev",
+      "role": "engineering",
+      "gender": null,
+      "description": "Cloud team developer based in Hoboken, NJ."
+    },
+    {
+      "name": "Alexander Cheda",
+      "title": "Cloud Team Dev",
+      "role": "engineering",
+      "gender": null,
+      "description": "Cloud team developer based in Las Vegas, NV."
+    },
+    {
+      "name": "Markus Narciso",
+      "title": "Cloud Team Dev",
+      "role": "engineering",
+      "gender": null,
+      "description": "Cloud team developer based in Las Vegas, NV."
+    },
+    {
+      "name": "Aymen Awol",
+      "title": "Cloud Team Dev",
+      "role": "engineering",
+      "gender": null,
+      "description": "Cloud team developer based in Las Vegas, NV."
+    },
+    {
+      "name": "Alexander Lupia",
+      "title": "Cloud Team Dev",
+      "role": "engineering",
+      "gender": null,
+      "description": "Cloud team developer based in Hoboken, NJ."
+    }
+  ],
+  "offering": [
+    {
+      "service": "Business Bundle",
+      "type": "plan",
+      "feature": "Every app on the platform (MoSocial, MoMail, MoBlogs, MoReviews) in one subscription; integrations, FloGen generation and Brand Power scoring included.",
+      "pricing": "7 days free, then $299/month; cancel anytime, no contracts or setup fees."
+    },
+    {
+      "service": "MoSocial",
+      "type": "product",
+      "feature": "Plans, writes, designs and schedules on-brand social posts with platform-specific optimization; publishes to Facebook, Instagram, X, LinkedIn, YouTube and TikTok.",
+      "pricing": "7 days free, then $149/month"
+    },
+    {
+      "service": "MoMail",
+      "type": "product",
+      "feature": "Automated email campaigns with AI writing, personalization, optimization and scheduling; connects to Mailchimp, Constant Contact, HubSpot and Follow Up Boss.",
+      "pricing": "7 days free, then $79/month"
+    },
+    {
+      "service": "MoBlogs",
+      "type": "product",
+      "feature": "Automated SEO-optimized blog content creation, publishing straight to WordPress.",
+      "pricing": "7 days free, then $149/month"
+    },
+    {
+      "service": "MoReviews",
+      "type": "product",
+      "feature": "AI-drafted Google review replies, Google Business profile optimization, automated Google Business posts, review analytics and response tracking.",
+      "pricing": "7 days free, then $99/month"
+    },
+    {
+      "service": "FloGen",
+      "type": "platform feature",
+      "feature": "Proactively generates on-brand content from the business's knowledge and library.",
+      "pricing": "Included in all plans"
+    },
+    {
+      "service": "Brand Power",
+      "type": "platform feature",
+      "feature": "Scores content and brand presence 0–100 across channels in real time.",
+      "pricing": "Included in all plans"
+    },
+    {
+      "service": "MoLetters",
+      "type": "product (Labs)",
+      "feature": "Labs app; launched in beta alongside MoSocial in August 2025.",
+      "pricing": null
+    },
+    {
+      "service": "MoLeads",
+      "type": "product (Labs)",
+      "feature": "Labs app used for campaign templates, geo-targeted promotions, landing pages and ads.",
+      "pricing": null
+    },
+    {
+      "service": "MoClicks",
+      "type": "product (Labs)",
+      "feature": null,
+      "pricing": null
+    },
+    {
+      "service": "MoQuotes",
+      "type": "product (Labs)",
+      "feature": null,
+      "pricing": null
+    }
+  ]
+}
