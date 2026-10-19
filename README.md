@@ -10,6 +10,11 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+# Screenshots
+<img width="1869" height="900" alt="image" src="https://github.com/user-attachments/assets/b62555b4-bbac-4ba6-86e1-9903a85eb0cc" />
+<img width="1825" height="878" alt="image" src="https://github.com/user-attachments/assets/93462a8b-f970-4c24-acd1-7a37be933d93" />
+
+
 ### What approach did you take to scraping and structuring the knowledge base data?
 
 ### What information beyond our current baseline did you choose to include, and why?
