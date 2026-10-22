@@ -2,9 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+git clone https://github.com/Richies-Huynh/mo-knowledge.git
+npm i
 npm run dev
 ```
 
